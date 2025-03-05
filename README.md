@@ -20,7 +20,7 @@
 
 <h2>🏅 Certificates:</h2>
 
-- [Vertex School's 9 week UE Game Dev Program](https://onedrive.live.com/?cid=1BC4F1C9BD3D99E1&id=1BC4F1C9BD3D99E1%21s41780e07198b4ebfac6d185e686acc4f&parId=root&o=OneUp)
+- [Vertex School's 9 week UE Game Dev Program](https://github.com/MaxProjektz/MaxProjektz/blob/main/README.md)
 
 <h2>📺 YouTube Videos:</h2>
 

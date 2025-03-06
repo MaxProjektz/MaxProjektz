@@ -1,15 +1,17 @@
-<h1>Hi, I'm Braden! <br/><a href="https://github.com/joshmadakor1">Unreal Engine Game Developer</a></h1>
+<h1>Hi, I'm Braden! <br/>Welcome to my Game Dev Portfolio🕹️</h1>
   
 <h2>🏅 Certifications:</h2>
 
-- [Vertex School's 9 week UE Game Dev Program](https://github.com/MaxProjektz/MaxProjektz/blob/main/README.md)
+- [Vertex School's 9 week UE5 Game Dev Program](https://github.com/MaxProjektz/MaxProjektz/blob/main/README.md)
 
-<h2>🕹️ UE5 Projects:</h2>
+<h2>🎣3rd Person Fishing RPG:</h2>
 
-- <b>3rd Person Fishing RPG</b>
-  - [Currency System🪙](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Currency System</b>
+  - [Video Demo](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Fishing System</b>
+  - [Lure Casting Rundown]
+  - [Fish Fight Minigame]
+  - [Video Demo](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)

@@ -7,7 +7,7 @@
 <h2>🎣3rd Person Fishing RPG:</h2>
 
 - <b>Currency System</b>
-  - [Video Demo](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Video Demo](https://youtu.be/ixUhNHmqNtE)
 - <b>Fishing System</b>
   - [Lure Casting Rundown]
   - [Fish Fight Minigame]

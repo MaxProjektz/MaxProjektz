@@ -15,8 +15,9 @@
  
 <h2>🔮Mythic Landscape</h2>
 
- - <b>Images</b>
-![image alt](https://github.com/MaxProjektz/MaxProjektz/blob/main/HighresScreenshot00000.png?raw=true)
+
+<img src="https://github.com/MaxProjektz/MaxProjektz/blob/main/HighresScreenshot00000.png?raw=true" width="400">
+
 <h2>👾 Independant Features:</h2>
 
 - <b>Vertex Paint</b>

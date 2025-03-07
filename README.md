@@ -2,7 +2,7 @@
   
 <h2>🏅 Certifications:</h2>
 
-- [Vertex School's 9 week UE5 Game Dev Program](https://github.com/MaxProjektz/MaxProjektz/blob/main/README.md)
+- [Vertex School's 9 week UE5 Game Dev Program](VertexCertificate.pdf)
 
 <h2>🎣3rd Person Fishing RPG:</h2>
 

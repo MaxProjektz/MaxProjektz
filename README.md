@@ -12,7 +12,10 @@
   - [Lure Casting Rundown]
   - [Fish Fight Minigame]
   - [Video Demo](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+ 
+<h2>🔮Mythic Landscape</h2>
 
+ - <b>Images</b>
   
 <h2>👾 Independant Features:</h2>
 

@@ -21,7 +21,9 @@
   <img src="https://github.com/MaxProjektz/MaxProjektz/blob/main/HighresScreenshot00003.png?raw=true" width="249">
   <img src="https://github.com/MaxProjektz/MaxProjektz/blob/main/HighresScreenshot00004.png?raw=true" width="249">
 </div>
-  - [How I Did It](
+- [How I Did It](https://your-link-here.com)
+
+
 
 
 <h2>👾 Independant Features:</h2>

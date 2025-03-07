@@ -15,7 +15,7 @@
 
 - <b>Anim Combos & Hit Trace</b>
   - [Video Demo](https://www.youtube.com/watch?v=O7IdGsZLdjw)
-- <b>Enemy Character Patrol/Chase AI
+- <b>Enemy Character Patrol/Chase AI</b>
   - [Video Demo](https://youtu.be/qMX_9vS9pQ8)
 <h2>🔮Mythic Landscape</h2>
 

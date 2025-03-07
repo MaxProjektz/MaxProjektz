@@ -39,4 +39,4 @@
 
 [youtube]: http://www.youtube.com/@bradenwomac5000
 [linkedin]: https://linkedin.com/in/joshmadakor
-<br> [Download My Resume](124028254_03052025170134_bradenresumevertexupdate.docx)
+<br> [Download My Resume](Resume_VertexUpdate.pdf)

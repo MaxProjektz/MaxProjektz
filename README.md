@@ -1,4 +1,4 @@
-<h1>Hi, I'm Braden! <br/>Welcome to my Game Dev Portfolio🕹️</h1>
+<h1>Hi, I'm Braden!</h1><br>I am a game developer specializing in Unreal Engine.<br>I have a passion for crafting engaging and interactive experiences and constantly improving my skills.
   
 <h2>🏅 Certifications:</h2>
 
@@ -24,10 +24,10 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 YouTube Videos:</h2>
+<h2>👾 Independant Features:</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- <b>Vertex Paint<b/>
+  - [Video Demo](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)

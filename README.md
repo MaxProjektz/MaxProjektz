@@ -11,6 +11,10 @@
 - <b>Fishing System</b>
   - [Video Demo](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
  
+<h2>🧟Century 22-Post apocalyptic survival RPG:</h2>
+
+- <b>Anim Combos & Hit Trace</b>
+  - [Video Demo](https://www.youtube.com/watch?v=O7IdGsZLdjw)
 <h2>🔮Mythic Landscape</h2>
 
 <div style="display: flex; justify-content: center;">

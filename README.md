@@ -16,7 +16,7 @@
   
 <h2>👾 Independant Features:</h2>
 
-- <b>Vertex Paint<b/>
+- <b>Vertex Paint</b>
   - [Video Demo](https://studio.youtube.com/video/UJ6ULtcFRsk/edit)
 
 <h2> 🤳 Connect with me:</h2>

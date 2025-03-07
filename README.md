@@ -16,8 +16,9 @@
 <h2>🔮Mythic Landscape</h2>
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github.com/MaxProjektz/MaxProjektz/blob/main/HighresScreenshot00000.png?raw=true" width="340" style="margin-right: 20px;">
-  <img src="https://github.com/MaxProjektz/MaxProjektz/blob/main/HighresScreenshot00001.png?raw=true" width="340">
+  <img src="https://github.com/MaxProjektz/MaxProjektz/blob/main/HighresScreenshot00000.png?raw=true" width="334" style="margin-right: 20px;">
+  <img src="https://github.com/MaxProjektz/MaxProjektz/blob/main/HighresScreenshot00001.png?raw=true" width="334">
+  <img src="https://github.com/MaxProjektz/MaxProjektz/blob/main/HighresScreenshot00003.png?raw=true" width="334">
 </div>
 
 <h2>👾 Independant Features:</h2>

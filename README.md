@@ -9,8 +9,6 @@
 - <b>Currency System</b>
   - [Video Demo](https://youtu.be/ixUhNHmqNtE)
 - <b>Fishing System</b>
-  - [Lure Casting Rundown]
-  - [Fish Fight Minigame]
   - [Video Demo](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
  
 <h2>🔮Mythic Landscape</h2>
@@ -35,7 +33,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 [youtube]: http://www.youtube.com/@bradenwomac5000
 [linkedin]: https://linkedin.com/in/joshmadakor

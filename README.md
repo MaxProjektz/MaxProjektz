@@ -8,8 +8,6 @@
 
 - <b>Currency System</b>
   - [Video Demo](https://youtu.be/ixUhNHmqNtE)
-- <b>Fishing System</b>
-  - [Video Demo](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
  
 <h2>🧟Century 22-Post apocalyptic survival RPG:</h2>
 

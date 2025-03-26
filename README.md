@@ -7,7 +7,8 @@
 <h2>🎣3rd Person Fishing RPG:*Work In Progress*</h2>
 
 - <b>Game Loop</b>
-  - [Summary](https://github.com/MaxProjektz/MaxProjektz/blob/main/FishingLoop.md)
+   - [Video Demo](https://youtu.be/dk0M9HjD0OA)
+   - [Summary](https://github.com/MaxProjektz/MaxProjektz/blob/main/FishingLoop.md)
 
 - <b>Currency System</b>
   - [Video Demo](https://youtu.be/ixUhNHmqNtE)

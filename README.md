@@ -4,7 +4,9 @@
 
 - [Vertex School's 9 week UE5 Game Dev Program](VertexCertificate.pdf)
 
-<h2>🎣3rd Person Fishing RPG:</h2>
+<h2>🎣3rd Person Fishing RPG:*Work In Progress*</h2>
+
+- <b>Game Loop</b>
 
 - <b>Currency System</b>
   - [Video Demo](https://youtu.be/ixUhNHmqNtE)
